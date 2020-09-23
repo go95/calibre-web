@@ -1,1 +1,3 @@
 export CALIBRE_PORT=$PORT
+export PGID=$UID
+export PUID=$UID
